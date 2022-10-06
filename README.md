@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         AsinBulkMove
-// @namespace    https://github.com/jgray0705/UserScripts
-// @version      1.0
-// @description  Move all of one asin into one location
-// @author       grajef@
-// @match        https://aftlite-na.amazon.com/inventory/view_inventory_for_asin*
-// @match        https://aftlite-portal.amazon.com/inventory/view_inventory_for_asin_display*
-// @downloadURL  https://github.com/JGray0705/UserScripts/raw/master/AsinBulkMove.user.js
-// @grant        none
 // ==/UserScript==
 
 (function() {
